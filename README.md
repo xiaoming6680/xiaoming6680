@@ -27,6 +27,5 @@
 - [MC-enchant-command-generator](https://github.com/xiaoming6680/MC-enchant-command-generator)：Java 版全版本附魔物品 /give 指令生成器
 
 #### 🧰 其他
-- [RhineLabUI-PersonalWeb](https://github.com/xiaoming6680/RhineLabUI-PersonalWeb)：Rhine Lab 档案界面风格的个人网站（TypeScript + Three.js）
 - [Apex-FPS-Booster](https://github.com/xiaoming6680/Apex-FPS-Booster)：APEX 帧数优化工具
 - [office-building-showcase](https://github.com/xiaoming6680/office-building-showcase)：可交互的 3D 办公楼展示
