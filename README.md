@@ -1,43 +1,34 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.webp">
-  <img src="assets/banner-light.webp" alt="你好，我是小铭。在国外研究 AI 的大学生，B 站签约 UP 主，用代码做音乐视频，也做播放器插件、网页小游戏和 Minecraft 模组。" width="100%">
-</picture>
+### 你好，我是小铭 👋
 
-<p align="center"><samp>
-  <a href="https://xiaoming6680.link">个人网站</a> ·
-  <a href="https://space.bilibili.com/275188875">bilibili</a> ·
-  <a href="https://www.douyin.com/search/583609695">抖音</a> ·
-  <a href="https://play.xiaoming6680.link">小游戏合集</a>
-</samp></p>
+在国外研究 AI 的大学生，B 站签约 UP 主。喜欢把想法变成能跑起来的东西：代码生成的 MV、音乐播放器插件、网页小游戏、Minecraft 模组。
 
-<br>
+📺 作品视频：[B 站 @XIAOMING6680](https://space.bilibili.com/275188875)（1.5 万+ 粉丝 · 360 万+ 播放）· [抖音 @XIAOMING6680](https://www.douyin.com/search/583609695)（抖音号 583609695）
 
-<a href="https://github.com/xiaoming6680/xm-video-engine"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/video-engine-dark.webp"><img src="assets/video-engine-light.webp" alt="xm-video-engine：给 AI Agent 做音乐视频的底座" width="49%"></picture></a>
-<a href="https://github.com/xiaoming6680/NCM-BetterDownload"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/betterdownload-dark.webp"><img src="assets/betterdownload-light.webp" alt="BetterDownload：网易云 / QQ 音乐下载的加密歌曲自动转成通用音频" width="49%"></picture></a>
-<a href="https://github.com/xiaoming6680/NCM-BetterMV"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bettermv-dark.webp"><img src="assets/bettermv-light.webp" alt="NCM-BetterMV：网易云里实时生成跟着节拍走的 3D MV" width="49%"></picture></a>
-<a href="https://github.com/xiaoming6680/Zh-CN-pdoom-video"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pdoom-dark.webp"><img src="assets/pdoom-light.webp" alt="Zh-CN-pdoom-video：《I'm Upping My P(doom)》中英双语汉化版" width="49%"></picture></a>
-<a href="https://github.com/xiaoming6680/SDVX-FPS-Unlock"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sdvx-dark.webp"><img src="assets/sdvx-light.webp" alt="SDVX-FPS-Unlock：解除 SOUND VOLTEX 在 spice2x 下的 120 帧限制" width="49%"></picture></a>
-<a href="https://play.xiaoming6680.link"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/games-dark.webp"><img src="assets/games-light.webp" alt="小游戏合集：节拍幸存者、别关我、从一个点开始" width="49%"></picture></a>
+🏠 个人网站：[xiaoming6680.link](https://xiaoming6680.link)
 
-<br>
+#### 🎬 代码生成 MV
+- [xm-video-engine](https://github.com/xiaoming6680/xm-video-engine)：给 AI Agent 做音乐视频的底座，我在 B 站的视频都由它制作
+- [Zh-CN-pdoom-video](https://github.com/xiaoming6680/Zh-CN-pdoom-video)：《I'm Upping My P(doom)》中文深度汉化版，中英双语逐词字幕
 
-**在 B 站** <sub><samp>播放最多的三支 MV，全部由 xm-video-engine 制作</samp></sub>
+#### 🎵 音乐播放器插件
+- [NCM-BetterDownload](https://github.com/xiaoming6680/NCM-BetterDownload)：把网易云下载的 VIP 歌曲自动转成在哪都能播放的音乐文件
+- [QQM-BetterDownload](https://github.com/xiaoming6680/QQM-BetterDownload)：QQ 音乐版，加密音乐全自动转换
+- [NCM-BetterMV](https://github.com/xiaoming6680/NCM-BetterMV)：在网易云里放任何一首歌，实时生成跟着节拍走的 3D MV
 
-<a href="https://www.bilibili.com/video/BV1hxHR68E24"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v1-dark.webp"><img src="assets/v1-light.webp" alt="暗叫 - きくお，167 万播放" width="32.5%"></picture></a>
-<a href="https://www.bilibili.com/video/BV13gn66nEBR"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v2-dark.webp"><img src="assets/v2-light.webp" alt="world.execute (me) ;，58 万播放" width="32.5%"></picture></a>
-<a href="https://www.bilibili.com/video/BV14XaQ66E4y"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v3-dark.webp"><img src="assets/v3-light.webp" alt="Clarity (BUNT. Remix)，57 万播放" width="32.5%"></picture></a>
+#### 🎮 网页小游戏 → [总入口](https://github.com/xiaoming6680/play-entry)
+- [beat-survivors](https://github.com/xiaoming6680/beat-survivors)：节拍幸存者，武器即乐器，一局 8 分钟就是一首由你的 build 决定的电子乐
+- [from-a-dot](https://github.com/xiaoming6680/from-a-dot)：从一个点开始，画面从终端一路进化到 3D 的放置游戏
+- [dont-close-me](https://github.com/xiaoming6680/dont-close-me)：别关我，一个不想被关掉的网页，谜题都要对浏览器本身动手
 
-<br>
+#### ⛏️ Minecraft（Fabric 1.21.11）
+- [MC-The-Fourth-Frequency-DEMO](https://github.com/xiaoming6680/MC-The-Fourth-Frequency-DEMO)：大型生存恐怖叙事模组，1.0.0 正式版
+- [MC-Horror-mod-it](https://github.com/xiaoming6680/MC-Horror-mod-it)：It，让你在生存中逐渐意识到世界正在被观察
+- [MC-Manhunt-Wildcard](https://github.com/xiaoming6680/MC-Manhunt-Wildcard)：猎人追逃玩法，周期性抽取外卡事件
+- [MC-Entity-compass](https://github.com/xiaoming6680/MC-Entity-compass)：生物指南针，指向选定的生物或玩家
+- [MC-friendservermenu](https://github.com/xiaoming6680/MC-friendservermenu)：好友服的轻量游戏内菜单
+- [MC-enchant-command-generator](https://github.com/xiaoming6680/MC-enchant-command-generator)：Java 版全版本附魔物品 /give 指令生成器
 
-**Minecraft** <sub><samp>Fabric 1.21.11</samp></sub>
-
-- **[The Fourth Frequency](https://github.com/xiaoming6680/MC-The-Fourth-Frequency-DEMO)** — 第四频段。生存恐怖叙事，熟悉的方块、声音和规则逐渐失去解释
-- **[It](https://github.com/xiaoming6680/MC-Horror-mod-it)** — 在正常生存中，慢慢意识到世界正在被观察
-- **[Manhunt Wildcard](https://github.com/xiaoming6680/MC-Manhunt-Wildcard)** — 猎人追逃，每隔一段时间抽一张改变局势的外卡
-- **[Entity Compass](https://github.com/xiaoming6680/MC-Entity-compass)** · **[Friend Server Menu](https://github.com/xiaoming6680/MC-friendservermenu)** · **[附魔指令生成器](https://github.com/xiaoming6680/MC-enchant-command-generator)**
-
-**更多**
-
-- **[QQM-BetterDownload](https://github.com/xiaoming6680/QQM-BetterDownload)** — BetterDownload 的 QQ 音乐版
-- **[beat-survivors](https://github.com/xiaoming6680/beat-survivors)** · **[dont-close-me](https://github.com/xiaoming6680/dont-close-me)** · **[from-a-dot](https://github.com/xiaoming6680/from-a-dot)** · **[play-entry](https://github.com/xiaoming6680/play-entry)** — 小游戏合集里各个游戏的源码
-- **[Apex-FPS-Booster](https://github.com/xiaoming6680/Apex-FPS-Booster)** · **[office-building-showcase](https://github.com/xiaoming6680/office-building-showcase)**
+#### 🧰 其他
+- [SDVX-FPS-Unlock](https://github.com/xiaoming6680/SDVX-FPS-Unlock)：解除 SOUND VOLTEX 在 spice2x 下的 120 帧限制
+- [Apex-FPS-Booster](https://github.com/xiaoming6680/Apex-FPS-Booster)：APEX 帧数优化工具
+- [office-building-showcase](https://github.com/xiaoming6680/office-building-showcase)：可交互的 3D 办公楼展示
