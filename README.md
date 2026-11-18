@@ -24,6 +24,3 @@
 - [beat-survivors](https://github.com/xiaoming6680/beat-survivors)：节拍幸存者，武器即乐器，一局 8 分钟就是一首由你的 build 决定的电子乐
 - [from-a-dot](https://github.com/xiaoming6680/from-a-dot)：从一个点开始，画面从终端一路进化到 3D 的放置游戏
 - [dont-close-me](https://github.com/xiaoming6680/dont-close-me)：别关我，一个不想被关掉的网页，谜题都要对浏览器本身动手
-
-#### 🧰 其他
-- [office-building-showcase](https://github.com/wxyczn/office-building-showcase)：可交互的 3D 办公楼展示
